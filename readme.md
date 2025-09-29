@@ -52,4 +52,4 @@ The `survey_responses` table stores each response with the following fields:
 
 - Age must be numeric
 - Date and gender are required
-- All survey questions must be answered
+- All of the survey questions must be answered
