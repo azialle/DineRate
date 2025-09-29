@@ -1,0 +1,42 @@
+{
+    "q1": {
+        "question": "How good did the food taste?",
+        "type": "rating"
+    },
+    "q2": {
+        "question": "Was the food hot and fresh when served?",
+        "type": "bool"
+    },
+    "q3": {
+        "question": "Did you get enough food on your plate?",
+        "type": "bool"
+    },
+    "q4": {
+        "question": "Did the food look and taste like what you expected?",
+        "type": "bool"
+    },
+    "q5": {
+        "question": "What can we do to make our food better?",
+        "type": "text"
+    },
+    "q6": {
+        "question": "How nice and helpful were our staff?",
+        "type": "rating"
+    },
+    "q7": {
+        "question": "Did the staff take your order correctly and quickly?",
+        "type": "bool"
+    },
+    "q8": {
+        "question": "Was your food served fast enough?",
+        "type": "rating"
+    },
+    "q9": {
+        "question": "What can we do to improve our service?",
+        "type": "text"
+    },
+    "q10": {
+        "question": "How happy were you with your visit overall?",
+        "type": "rating"
+    }
+}
